@@ -16,9 +16,9 @@ TF-IDF vectorisation → training 3 classifiers → model comparison and evaluat
 
 | Model               | Accuracy | Spam Precision | Spam Recall | F1 Score |
 |---------------------|----------|----------------|-------------|----------|
-| **Naïve Bayes**     | **97.5%**| **96.1%**      | 92.3%       | 94.2%    |
-| Logistic Regression | 98.1%    | 97.8%          | 91.4%       | 94.5%    |
-| SVM (LinearSVC)     | 98.2%    | 98.1%          | 91.7%       | 94.8%    |
+| **Naïve Bayes**     | **97.5%**| **99.2%**      | 81.9%       | 89.7%    |
+| Logistic Regression | 96.6%    | 97.4%          | 76.5%       | 85.7%    |
+| SVM (LinearSVC)     | 98.7%    | 100%           | 89.9%       | 94.7%    |
 
 > ✅ **Chosen model: Naïve Bayes**
 > All three models had similar overall accuracy. Naïve Bayes was selected because:
@@ -30,7 +30,7 @@ TF-IDF vectorisation → training 3 classifiers → model comparison and evaluat
 
 ## 🖼️ Confusion Matrices
 
-![Confusion Matrices](confusion_matrices.png)
+![Confusion Matrices]((https://colab.research.google.com/drive/1gu_78TpkFJ21FJACt79-J7OdvPsNn3eI#scrollTo=sIxtA659T9EI&fullscreenOutput=true))
 
 *Left to right: Naïve Bayes, Logistic Regression, SVM*
 
