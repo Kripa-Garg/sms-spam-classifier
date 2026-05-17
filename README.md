@@ -133,6 +133,6 @@ sms-spam-classifier/
 
 ## 👤 Author
 
-**[Kripa Garg]**
-B.Tech AIML · [JSS University]
+Kripa Garg
+B.Tech AIML · JSS University
 [GitHub Profile](https://github.com/[Kripa-Garg]) · [LinkedIn](https://www.linkedin.com/in/kripa-garg-4b26a3320/)
